@@ -1,16 +1,58 @@
-## Hi there 👋
+## 👋 嗨，我是帆哥
 
-<!--
-**WangBenjamin911/WangBenjamin911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**不会写代码的售前解决方案专家，略懂 SaaS 行业的 KA 销售和渠道生态——但在 AI Agent 的帮助下，把一个个想法变成了能用的产品。**
 
-Here are some ideas to get you started:
+做了十年 B2B SaaS，最熟悉的事是给客户讲方案、做 Demo、搭渠道体系。2025 年 AI coding agent 爆发后，我开始用自然语言"写代码"——不是写 `class` 和 `function`，而是描述我想要什么，让 AI 帮我实现。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**我的核心命题：一个不懂编程的业务人，能不能靠 AI Agent 构建自己的数字产品？**
+
+答案是可以。我用的就是这些工具。
+
+---
+
+### 🧰 我的 AI 工具箱
+
+| 工具 | 我用来做什么 |
+|------|-------------|
+| **Claude** | 深度思考、方案撰写、内容策划——我的"第二大脑" |
+| **Codex**（WorkBuddy） | 零代码构建自动化工作流，运维项目、生成内容、分析数据 |
+| **扣子（Coze）** | 搭 Chatbot、做智能体，接入飞书和微信公众号 |
+| **AI-Media2Doc** | 口播视频一键转公众号图文，一个人撑起内容生产 |
+
+---
+
+### 🛠️ 我正在做的事
+
+- 🎬 **自媒体自动化流水线**：OBS 录制口播 → AI 转录截图 → 一键发布微信公众号，一个人完成一个团队的工作
+- 🤖 **WorkBuddy Agent Skills 开发者**：围绕内容生产、数据分析、客户沟通搭建了一批可复用的 AI 工作流
+- 📊 **售前 × AI 效率工具**：用 AI Agent 做方案自动生成、竞品对比、招标分析
+- 🔗 **飞书 × AI 深度集成**：把 AI 能力嵌入日常工作流——审批、报表、客户管理
+
+---
+
+### ✨ 我的理念
+
+> 代码不再是工程师的特权，而是每个想解决问题的业务人的工具。
+> ——帆哥
+
+我不做"技术产品"，我做的是"用技术解决业务问题"的方案。我面向的是那些想用 AI 提升效率、但又不想从零学编程的销售、售前、运营。
+
+---
+
+### 📂 精选项目
+
+| 项目 | 说明 |
+|------|------|
+| **AI 自媒体工具箱** | 视频→文章→发布全自动，一个人撑起一个内容 IP |
+| **WorkBuddy 技能库** | 内容生产 / 数据分析 / 客户沟通——可复用的 AI Agent 工作流 |
+| **售前 AI 提效方案** | 用 AI 写方案、做竞品分析、拆招标文件 |
+| **飞书 AI 自动化** | 扣子 Bot + Codex 工作流，把 AI 嵌入日常协作 |
+
+---
+
+### 🌐 找到我
+
+- 📕 小红书：[@帆哥911-Benjamin]
+- 📱 微信公众号：[XXXX]
+- 🐦 X / Twitter：[@GMVTT911]
+- ▶️ YouTube：[Wang Benjamin @ WangBenjamin_AI]
