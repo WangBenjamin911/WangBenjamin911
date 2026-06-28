@@ -26,14 +26,20 @@ The answer is yes. These are the tools I use.
 
 ---
 
-### 🧰 My AI Toolkit
+### 🛠️ 常用的 AI Agent 工具
 
-| Tool | What I Use It For |
-|------|-------------------|
-| **Claude** | Deep thinking, content strategy, proposal writing — my "second brain" |
-| **Codex** (WorkBuddy) | Building automated workflows without code — project ops, content generation, data analysis |
-| **Coze (扣子)** | Building chatbots and AI agents, integrating them into Lark and WeChat |
-| **AI-Media2Doc** | Turning talking-head videos into WeChat articles with screenshots — one person, full content production |
+| Tool / 工具 | Role / 定位 |
+|-------------|-------------|
+| **Codex** ⭐ | 🏠 主力开发 Agent，构建自动化工作流与全栈应用 |
+| **WorkBuddy** ⭐ | 🏠 主力项目管理 Agent，内容生产、数据分析、多任务编排 |
+| **Claude** | 🧠 深度思考与内容策略——方案撰写、策划分析的"第二大脑" |
+| **Gemini** | 🌐 多模态理解与长文本处理，跨格式内容创作 |
+| **DeepSeek** | 📝 中文内容生成与代码辅助，性价比极高 |
+| **豆包 (Doubao)** | 🗣️ 语音交互与中文对话，端侧轻量 AI 助手 |
+| **扣子 (Coze)** | 🤖 Chatbot 搭建与飞书/微信集成，低代码智能体开发 |
+| **Marvis** | 🔍 AI 专用搜索与知识检索，精准信息获取 |
+
+> ⭐ = 目前主力使用的核心工具
 
 ---
 
