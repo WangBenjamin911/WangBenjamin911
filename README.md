@@ -26,20 +26,20 @@ The answer is yes. These are the tools I use.
 
 ---
 
-### 🛠️ 常用的 AI Agent 工具
+### 🛠️ AI Agent Stack · 常用 AI Agent 工具
 
-| Tool / 工具 | Role / 定位 |
-|-------------|-------------|
-| **Codex** ⭐ | 🏠 主力开发 Agent，构建自动化工作流与全栈应用 |
-| **WorkBuddy** ⭐ | 🏠 主力项目管理 Agent，内容生产、数据分析、多任务编排 |
-| **Claude** | 🧠 深度思考与内容策略——方案撰写、策划分析的"第二大脑" |
-| **Gemini** | 🌐 多模态理解与长文本处理，跨格式内容创作 |
-| **DeepSeek** | 📝 中文内容生成与代码辅助，性价比极高 |
-| **豆包 (Doubao)** | 🗣️ 语音交互与中文对话，端侧轻量 AI 助手 |
-| **扣子 (Coze)** | 🤖 Chatbot 搭建与飞书/微信集成，低代码智能体开发 |
-| **Marvis** | 🔍 AI 专用搜索与知识检索，精准信息获取 |
+| Tool | My Use Case |
+|------|-------------|
+| **Codex** ⭐ | Primary coding agent — building automated workflows & full-stack apps (主力开发 Agent) |
+| **WorkBuddy** ⭐ | Primary ops agent — content production, data analysis, multi-task orchestration (主力项目管理 Agent) |
+| **Claude** | Deep thinking & content strategy — proposals, planning, my "second brain" (深度思考与内容策略) |
+| **Gemini** | Multimodal understanding & long-context processing, cross-format creation (多模态与长文本) |
+| **DeepSeek** | Chinese content generation & code assistance, great value for cost (中文生成与代码辅助) |
+| **豆包 (Doubao)** | Voice interaction & Chinese dialogue, lightweight on-device AI (语音交互与中文对话) |
+| **扣子 (Coze)** | Chatbot building & Lark/WeChat integration, low-code agent dev (低代码智能体开发) |
+| **Marvis** | AI-powered search & knowledge retrieval (AI 搜索与知识检索) |
 
-> ⭐ = 目前主力使用的核心工具
+> ⭐ = Primary / 主力工具
 
 ---
 
